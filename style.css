@@ -39,6 +39,9 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#nav #centeratag:hover{
+    text-transform: uppercase;
+}
 #hero {
   display: flex;
   justify-content: space-between;
